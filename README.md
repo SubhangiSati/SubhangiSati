@@ -57,5 +57,5 @@
 
 Feel free to reach out or explore my projects!
 
-- **[LinkedIn](https://www.linkedin.com/in/subhangi-sati-9856a6221)
-- **[Leetcode](https://leetcode.com/u/SubhangiSati/)
+- [LinkedIn](https://www.linkedin.com/in/subhangi-sati-9856a6221)
+- [Leetcode](https://leetcode.com/u/SubhangiSati/)

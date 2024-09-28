@@ -18,10 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/subhangi-sati](https://www.linkedin.com/in/subhangi-sati-9856a6221)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhangi-sati" height="30" width="40" /></a>
-<a href="https://kaggle.com/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="your-kaggle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/subhangi-sati-9856a6221" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhangi-sati" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shubhisati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="your-kaggle" height="30" width="40" /></a>
 <a href="https://github.com/SubhangiSati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="subhangi-sati" height="30" width="40" /></a>
-<a href="https://your-blog-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="your-blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

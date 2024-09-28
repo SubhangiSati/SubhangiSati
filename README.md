@@ -15,6 +15,18 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lz0Vrmx_7c8KsbhmgdpEew6Gkj1TWSb0/view?usp=share_link)
 
+## 🎓 Education
+
+- **B.Tech (Hons) in Computer Science and Engineering with specilisation in AIML**
+  - **University of Petroleum and Energy Studies (UPES)**
+  - **Dehradun, India**
+  - **2021 - 2025**
+
+## 💼Current  Internship
+
+- **Distributed R&D Intern**
+  - **KEK** 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/subhangi-sati-9856a6221" target="blank">
@@ -78,14 +90,8 @@
   <a href="https://pytorch.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
   </a>
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> 
-  </a>
   <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/js/js_api.asp" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" alt="api" width="40" height="40"/> 
   </a>
 </p>
 

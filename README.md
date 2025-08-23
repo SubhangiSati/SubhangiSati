@@ -21,6 +21,9 @@
   - **University of Petroleum and Energy Studies (UPES)**
   - **Dehradun, India**
   - **2021 - 2025**
+## 💼Current  Job
+- **Associate Software Developer**
+  - **Arrise Solutions** 
 
 ## 💼Current  Internship
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Quantum Computing and Advanced Deep Learning Techniques**
 
-- 👯 I’m looking to collaborate on **AI, ML, NLP, Healthcare, Gen AI, and Web Development Projects**
+- 👯 I’m looking to collaborate on **AI, ML, NLP, Agentic AI, LLM, MCP Healthcare, Gen AI, and Web Development Projects**
 
 - 🤝 I’m looking for help with **deploying large-scale ML models in production**
 

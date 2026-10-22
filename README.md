@@ -22,13 +22,8 @@
   - **Dehradun, India**
   - **2021 - 2025**
 ## 💼Current  Job
-- **Associate Software Developer**
+- **SDE-1 (DevAI)**
   - **Arrise Solutions** 
-
-## 💼Current  Internship
-
-- **Distributed R&D Intern**
-  - **KEK** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
